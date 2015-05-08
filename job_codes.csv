@@ -1,0 +1,414 @@
+Job Code,Purchased Services Job Code
+102,Chief School  Administrator/District Superintendent
+103,Administrative Assistant to District Superintendent 
+104,Interim Superintendent
+112,School Business Administrator
+114,Assistant School Business Admin
+120,Assistant Superintendent Non-Business
+121,Assistant Superintendent Business
+122,Assistant Superintendent Curriculum Instruction
+201,High School Principal
+202,Assistant Principal High School
+211,Junior High School Principal
+212,Assistant Principal Junior High School
+221,Middle School Principal
+222,Assistant Principal Middle School
+231,Elementary School Principal
+232,Assistant Principal Elementary School
+241,Vocational School Principal
+242,Assistant Principal Vocational School
+251,Principal Handicapped School
+252,Assistant Principal Handicapped School
+261,Adult High School Principal
+262,Assistant Principal Adult High School
+300,Supervisor Curriculum & Instruction
+301,Supervisor Basic Skills
+302,Supervisor Bilingual/ESL
+303,Supervisor Elementary Education
+304,Supervisor Secondary Education
+305,Supervisor Vocational Education
+306,Supervisor Pupil Personnel Services/Guidance
+307,Supervisor Personnel/Staff Development
+308,Supervisor  Planning/Research and Evaluation (Testing)
+309,Supervisor Adult Education
+310,Supervisor Athletics
+311,Supervisor Audio-Visual Aids
+312,Supervisor Art
+313,Supervisor Business
+314,Supervisor English
+315,Supervisor Foreign Languages
+316,Supervisor Health/Physical Education
+317,Supervisor Home Economics
+318,Supervisor Industrial Arts
+319,Supervisor Mathematics
+321,Supervisor Music
+322,Supervisor Science
+323,Supervisor Social Studies
+324,Supervisor Special Education
+325,Supervisor Vocational-Technical Subjects
+326,"Supervisor of Athletics, Health and Physical Education"
+327,Supervisor of Humanities
+328,Supervisor of Math/Science
+399,Supervisor Special Project
+400,Non-Supervisory Coordinator Curriculum and Instruction
+401,Non-Supervisory Coordinator of Basic Skills 
+402,Non-Supervisory Coordinator Bilingual/ESL
+403,Non-Supervisory Coordinator Elementary
+404,Non-Supervisory Coordinator Secondary
+405,Non-Supervisory Coordinator Vocational
+406,Non-Supervisory Coordinator Guidance
+409,Non-Supervisory Coordinator Adult  Ed
+410,Non-Supervisory Coordinator Nurse
+411,Non-Supervisory Coordinator Audio Visual aids
+412,Non-Supervisory Coordinator Art
+413,Non-Supervisory Coordinator Business
+414,Non-Supervisory Coordinator English
+415,Non-Supervisory Coordinator Foreign Language
+416,Non-Supervisory Coordinator Physical Ed & Health
+417,Non-Supervisory Coordinator Home Economics
+418,Non-Supervisory Coordinator Industrial Arts
+419,Non-Supervisory Coordinator Math
+420,Non-Supervisory Coordinator Teacher Student Discipline and Activity Advisor
+421,Non-Supervisory Coordinator Music
+422,Non-Supervisory Coordinator Science
+423,Non-Supervisory Coordinator Social Studies
+424,Non-Supervisory Coordinator Special  Ed
+425,Non-Supervisory Coordinator Vocational/Tech
+426,Non-Supervisory Coordinator Athletics
+430,"Coordinator of Grants Management, Manandated Programs & Special Projects"
+450,Dean of Programs and Students
+452,District Anti-Bullying Coordinator
+496,Transition Teacher
+497,Assistant to the Superindent Special Education
+498,Dean of Students
+499,Non-Supervisory Coordinator Special  Projects
+500,Director Curriculum & Instruction
+501,Director Basics Skills/Compensatory Education
+502,Director Bilingual/ESL
+503,Director Elementary Education
+504,Director Secondary Education
+505,Director Vocational Education
+506,Director Student Personnel Services Guidance
+507,Director Personnel/Staff Development
+508,Director Planning/Research and Evaluation 
+509,Director Adult Education
+511,Director Audio-Visual Aids
+512,Director of Art
+513,Director Business
+514,Director English
+515,Director Foreign Lang
+516,Director Health/PE
+517,Director Home Economics
+518,Director Indus Arts
+519,Director Mathematics
+521,Director Music
+522,Director Science
+523,Director Social Studies
+524,Director Special Ed
+525,Director Vocational -Technical Subjects
+526,Director Athletics
+599,Director Special Project
+700,Director
+701,Assistant Director
+702,Executive Director
+703,Business Manager
+1000,Preschool   
+1001,Elementary Kindergraten-8 Grade
+1003,Kindergarten                  
+1004,Elementary School Teacher K-5
+1007,"Elementary Teacher in secondary setting APA Only Subcategory Identifier S, H, or V"
+1015,English/Elementary          
+1016,Mathematics/Elementary           
+1017,Science /Elementary                 
+1018,Social Studies/Elementary            
+1102,Mathematics Grades 5 - 8
+1103,Science Grades 5  -8
+1104,Social Studies Grades 5 -8
+1105,American  Sign Lang Grades 5 - 8
+1106,Lang Arts/Literacy Grades 5 - 8
+1110,French Grades 5 - 8 
+1125,German Grades 5 - 8
+1130,Italian Grades 5 - 8 
+1145,Latin Grades 5 - 8 
+1150,Spanish Grades 5 - 8
+1165,Russian Grades 5 - 8 
+1170,Greek Grades 5 - 8 
+1172,Chinese Grades 5 - 8 
+1173,Japanese Grades 5 - 8 
+1174,Portuguese Grades 5 - 8 
+1176,Polish Grades 5 - 8 
+1178,Hebrew Grades 5 - 8 
+1179,Korean Grades 5 - 8 
+1181,Arabic Grades 5 - 8 
+1191,Other World Lang Grades 5 - 8
+1200,Art
+1261,Dance
+1271,Theater/Stage
+1273,Cinema/TV Production
+1283,Photography/Technical
+1284,Photography/Art of photography (HQ Only)
+1285,Print Making/Technical
+1286,Print Making/Art of Print Making (HQ Only)
+1301,Business Organization
+1304,Advertising
+1306,Banking/Insurance Principles
+1308,Economics/Economic Geography
+1311,Financial & Investment Principles
+1315,Business Law
+1317,Marketing/Sales
+1331,Bookkeeping  Accounting
+1341,Office Organization - Practices and Procedures
+1345,Clerical Office Practices
+1361,Shorthand
+1381,Typing/Word Processing
+1387,Data Entry
+1388,Data Processing
+1401,English Non-Elementary
+1405,Business English
+1408,Basic Skills/Remedial English
+1411,Reading Development/Remedial Elementary
+1412,Reading Remedial-Secondary
+1415,Library Skills Development
+1441,Speech Arts/Drama
+1442,Public Speaking
+1451,Theater
+1485,English as a 2nd Language
+1486,Bilingual/Bicultural
+1500,Language Arts/Literacy 
+1505,American Sign Language
+1506,Chinese
+1510,French
+1520,German
+1530,Italian
+1540,Latin
+1550,Spanish
+1560,Russian
+1570,Greek
+1573,Japanese
+1574,Portuguese
+1576,Polish
+1579,Hebrew
+1581,Arabic
+1582,Korean
+1599,Other Than Above
+1607,Health & Physical Education
+1610,Driver Education
+1615,Swimming/Water Safety
+1620,Health
+1630,Physical Education
+1644,Recreation
+1645,Family Life Education
+1700,Family & Consumer Sciences - Comprehensive
+1704,"Family & Consumer Sciences – Apparel, Textiles and Interiors"
+1706,Family & Consumer Sciences - Child & Family Development
+1760,Family & Consumer Sciences – Foods/Nutrition & Food Science
+1805,Career Education
+1812,General Shop
+1815,Plastics
+1818,Ceramics
+1819,Leatherworking
+1821,"Drafting and Design Technology (Includes Mechanical, Architectural, Machine Drawing, Architecture/Home Planning, Blueprint Reading, Industrial Arts, Industrial Drafting)"
+1825,Engineering Drawing
+1832,Furniture Refinish
+1833,General Woodwork
+1842,General Metalwork
+1844,Machine Shop
+1850,Radio and Theory
+1853,Basic Electricity
+1854,Appliance Repair
+1855,Electricity/Electronics
+1856,Electronics
+1857,Electricity
+1861,General Mechanics
+1862,Power Mechanics
+1864,Auto Mechanics
+1872,Graphic Arts
+1876,Printing
+1882,Home Mechanics
+1893,Surveying
+1894,Building Trades
+1896,Aeronautics
+1897,Technology Education
+1901,Math Non-Elementary
+1904,Remedial Math
+1907,Business Math
+1962,Computer Literacy/Applications/Programming
+2001,"Financial Literacy (Math, Social Studies, Business:  Finance, Economics, Law, Comprehensive Business, Comprehensive Family and Consumer Sciences and General Business Teachers) can hold this Job Code"
+2100,Music Comprehensive
+2110,Music Instrumental
+2130,Music Vocal
+2202,Science General
+2205,Science Earth
+2206,Science Physical
+2214,Science Military
+2231,Science Biological
+2235,Science Chemistry
+2236,Science Physics
+2302,Social Studies Non-Elementary
+2305,Social Studies Humanities
+2317,Social Studies Psychology
+2322,Social Studies History
+2391,Social Studies Geography
+2400,Supplementary Instruction (In-Class) 
+2401,Supplementary Instruction (Pull-Out) 
+2405,Resource Program In-Class 
+2406,Resource Program Pull-Out Support
+2410,Teacher Coach
+2411,Teacher Coordinator
+2412,Teacher Leader
+2501,Agricultural Occupations
+2507,Agricultural Technology
+2508,Turf Management
+2512,Marketing Education
+2513, Apparel and Accessories
+2514,Automotive
+2517,Food Management
+2518,Food Services
+2519,Food Production
+2520,Food Technology
+2522,Hotel and Lodging
+2523,Health Fitness
+2525,Computer Integrated Manufacturing
+2526,Audio Technology
+2527,Environmental Occupations
+2540,Dental Assisting
+2541,Legal Assisting
+2551,Practical Nurse
+2552,Medical Assistant
+2554,Health Occupation
+2555,Medical Dental Assistant
+2556,Nursing Assistant (Aide)
+2569,Small Animal Care
+2570,Supermarket Careers
+2571,Warehousing
+2572,Automotive Technology (Includes Automobile Mechanics and Automotive Specialties)
+2573,Chemical Technology
+2575,Construction Technology
+2576,Draft/Design Technology
+2577,Electrical Technology
+2579,Electronic Technology
+2580,Law Enforcement
+2581,Emergency Medical Technology
+2582,Medical Labor Technology
+2583,Medical Records Technology
+2584,Ophthalmic Medical Assist
+2585,Optical Technician
+2586,Phlebotomist/Venipuncture Technician
+2587,Surgical Technologist
+2588,Banking/Finance Technology
+2589,Dental Laboratory Technology
+2593,Computer Technology
+2595,Water/ Waste Water
+2597,Power Plant Technology
+2600,Air Conditioning & Refrigeration
+2602,Heating/Ventilation
+2603,Heating/Ventilation/Air Conditioning/Refrigeration
+2604,Appliance Repair
+2612,Body/Fender Repair
+2613,Diesel Mechanic
+2614,Heavy Equipment (Construction Mechanic)
+2616,Small Engine Repair(Internal Combustion)
+2617,Aircraft Maintenance
+2619,Commercial Art 
+2620,Commercial Photography 
+2621,Drafting
+2622,Graphic Arts 
+2623,Industrial Design
+2624,Printing
+2626,Marine Trades Technology 
+2627,Building Trades
+2628,Carpentry
+2629,Custodial Services
+2630,Electricity
+2632,Maintenance Mechanics
+2633,Masonry
+2634,Painting and Decorating
+2635,Plumbing & Pipefitting
+2637,Stationary Engineering
+2638,Business Machine Maintenance & Repair
+2643,Radio Broadcasting
+2644,Radio/Television Repair
+2645,Television Production
+2646,Apparel and Textile Service
+2649,Tailoring/Dress Making
+2650,Apparel and Textile Management
+2652,Cosmetology/Hair Styling
+2655,Building Maintenance
+2656,Machine Shop
+2659,Millwork/Cabinet Making
+2660,Plastics Production
+2661,Sheet Metal
+2662,Upholstering
+2663,Welding
+2664,Baking
+2665,Commercial Food Services
+2681,Introduction to Vocations
+2683,Laboratory Technology
+2691,Engineering Technology
+2692,Telecommunications
+2693,Vocational Arts/Dance
+2694,Vocational Art/Theater
+2695,Visual Arts
+2696,Vocational Art/Inst Music
+2697,Vocational Art/Vocal Music
+2698,Desktop Publishing
+2699,Dental Office Management
+2700,Medical Office Management
+2701,Culinary Arts
+2702,Chef Preparation
+2703,Travel and Tourism
+2704,Recreation
+2705,Meeting Planners
+2706,Electrolysis
+2707,Massage Therapy
+2708,Human Development & Child Care Services
+2709,Adult Care Services
+2710,Nail Technicians
+2711,Estheticians
+2712,Data Management
+2713,Computer Network System
+2714,Computer Service Technicians
+2715,Computer System Engineering
+2716,Interactive Media
+2717,"Information, Support & Services"
+2718,Internet& Online Technology
+2719,Vehicles & Petroleum Marketing
+2720,Marine Sciences
+2721,Vocational Arts/Electronic Music
+2722,Transportation and Travel Marketing
+3100,Director of School Counseling Services
+3101,School Counselor
+3105,"School Librarian, Media Specialist Assoc."
+3111,Occupation Therapist
+3112,Physical Therapist
+3113,Athletic Trainer
+3114,School Nurse
+3115,School Nurse/Non Instructional
+3116,School Psychologist
+3117,School Social Worker
+3118,Learning Disabilities Teacher Consultant
+3119,Reading Specialist
+3120,Speech Correction/Language Specialist
+3121,Coordinator Substance Abuse
+3122,Educational Interpreter-Sign Language Interpreting
+3123,Educational Interpreter-Oral Interpreting
+3124,Educational Interpreter-Cued Speech Transliteration
+3125,Teacher/ Behavior Specialist (SE Only)
+3126,Cooperative Agricultural Education
+3132,Cooperative Education Coordinator (Hazardous Occupations)
+3133,Cooperative  Education Coordinator (Non Hazardous Occupations)
+3134,County Apprenticeship Coordinator
+3135,Structured Learning Experience Coordinator
+4000,Anti-Bullying Specialist
+4001,In-School Suspension
+9000,Professional Staff
+9050,Physics (Pilot Program Only)
+9100,Instructional Paraprofessionals (Serving Ages 3 to 5)
+9101,Instructional Paraprofessionals (Serving Ages 6 to 21)
+9150,Non Instructional Paraprofessionals (Serving Ages 3 to 5)
+9151,Non Instructional Paraprofessionals (Serving Ages 6 to 21)
+9200,Technicians
+9300,Clerical/Secretarial
+9400,Service Workers
+9500,Skilled Craftsperson's
+9600,Laborers Unskilled 
