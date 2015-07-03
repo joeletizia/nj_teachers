@@ -1,0 +1,952 @@
+group:  Apparel and Accessories
+  vars n  mean       sd median trimmed     mad   min    max range skew kurtosis       se
+1    1 3 78326 33759.79  75750   78326 44214.1 45928 113300 67372 0.08    -2.33 19491.22
+--------------------------------------------------------------------------------------- 
+group: Advertising
+  vars n  mean       sd median trimmed    mad   min   max range  skew kurtosis       se
+1    1 3 70255 19275.93  81070   70255 926.62 48000 81695 33695 -0.38    -2.33 11128.96
+--------------------------------------------------------------------------------------- 
+group: Aeronautics
+  vars n   mean sd median trimmed mad    min    max range skew kurtosis se
+1    1 1 104515 NA 104515  104515   0 104515 104515     0   NA       NA NA
+--------------------------------------------------------------------------------------- 
+group: Agricultural Occupations
+  vars  n     mean       sd  median  trimmed      mad   min    max range skew kurtosis      se
+1    1 42 72701.83 16820.04 68982.5 71395.18 18497.66 47858 109968 62110  0.5    -0.71 2595.39
+--------------------------------------------------------------------------------------- 
+group: Agricultural Technology
+  vars n  mean       sd  median trimmed     mad   min   max range skew kurtosis      se
+1    1 4 63371 10776.27 61680.5   63371 9012.73 52406 77717 25311 0.31    -1.94 5388.13
+--------------------------------------------------------------------------------------- 
+group: Air Conditioning & Refrigeration
+  vars n     mean       sd median  trimmed    mad   min    max range skew kurtosis      se
+1    1 7 80527.43 13177.63  76571 80527.43 9295.9 65737 103545 37808  0.6    -1.28 4980.68
+--------------------------------------------------------------------------------------- 
+group: Aircraft Maintenance
+  vars n  mean sd median trimmed mad   min   max range skew kurtosis se
+1    1 1 70526 NA  70526   70526   0 70526 70526     0   NA       NA NA
+--------------------------------------------------------------------------------------- 
+group: American  Sign Lang Grades 5 - 8
+  vars  n     mean       sd median trimmed      mad   min    max range skew kurtosis      se
+1    1 15 67282.53 21597.15  55333   66492 13837.11 41683 103159 61476 0.53    -1.49 5576.36
+--------------------------------------------------------------------------------------- 
+group: American Sign Language
+  vars  n     mean       sd  median  trimmed      mad   min    max range skew kurtosis      se
+1    1 18 68324.39 17901.48 61371.5 66470.31 10381.91 51000 115314 64314 1.26      0.5 4219.42
+--------------------------------------------------------------------------------------- 
+group: Anti-Bullying Specialist
+  vars  n    mean       sd  median  trimmed      mad   min    max  range skew kurtosis      se
+1    1 20 77548.2 30357.47 68804.5 72250.75 25041.86 46264 160085 113821 1.26      0.9 6788.14
+--------------------------------------------------------------------------------------- 
+group: Apparel and Textile Management
+  vars n  mean sd median trimmed mad   min   max range skew kurtosis se
+1    1 1 60984 NA  60984   60984   0 60984 60984     0   NA       NA NA
+--------------------------------------------------------------------------------------- 
+group: Apparel and Textile Service
+  vars n  mean       sd median trimmed     mad   min   max range  skew kurtosis      se
+1    1 5 76553 12499.71  83218   76553 4065.29 56538 85960 29422 -0.65    -1.56 5590.04
+--------------------------------------------------------------------------------------- 
+group: Arabic
+  vars n     mean      sd median  trimmed     mad   min   max range skew kurtosis     se
+1    1 3 55795.67 4389.71  55202 55795.67 5143.14 51733 60452  8719 0.13    -2.33 2534.4
+--------------------------------------------------------------------------------------- 
+group: Art
+  vars    n     mean       sd median  trimmed      mad  min    max  range skew kurtosis     se
+1    1 3006 66584.85 18907.49  62429 66012.81 16778.58 2758 137000 134242 0.17     0.06 344.86
+--------------------------------------------------------------------------------------- 
+group: Athletic Trainer
+  vars   n     mean       sd median  trimmed      mad  min    max  range  skew kurtosis      se
+1    1 298 69311.32 18499.95  66598 69265.19 19969.88 4500 120019 115519 -0.09     0.13 1071.67
+--------------------------------------------------------------------------------------- 
+group: Audio Technology
+  vars  n     mean       sd median trimmed     mad   min   max range skew kurtosis      se
+1    1 12 62235.08 11753.12  62266   61123 8776.25 45628 89963 44335 0.72      0.1 3392.83
+--------------------------------------------------------------------------------------- 
+group: Auto Mechanics
+  vars  n     mean       sd median  trimmed      mad   min    max range skew kurtosis      se
+1    1 34 73045.97 17036.68  70926 72032.93 16840.85 46195 111183 64988 0.45    -0.71 2921.77
+--------------------------------------------------------------------------------------- 
+group: Automotive
+  vars  n     mean       sd median  trimmed     mad   min    max range skew kurtosis      se
+1    1 19 76731.05 17313.35  73065 76078.82 8560.53 50007 114543 64536 0.61    -0.44 3971.96
+--------------------------------------------------------------------------------------- 
+group: Automotive Technology (Includes Automobile Mechanics and Automotive Specialties)
+  vars  n     mean       sd  median trimmed     mad   min    max range skew kurtosis      se
+1    1 46 70829.22 13076.62 71817.5 70340.5 14289.3 49566 101365 51799 0.26     -0.9 1928.04
+--------------------------------------------------------------------------------------- 
+group: Baking
+  vars  n     mean       sd median  trimmed     mad   min    max range skew kurtosis      se
+1    1 14 77476.93 17306.25  78164 76941.08 22409.5 54661 106723 52062  0.2    -1.36 4625.29
+--------------------------------------------------------------------------------------- 
+group: Banking/Finance Technology
+  vars n     mean       sd median  trimmed     mad   min   max range skew kurtosis       se
+1    1 3 66593.33 26022.09  53520 66593.33 5663.53 49700 96560 46860 0.38    -2.33 15023.86
+--------------------------------------------------------------------------------------- 
+group: Banking/Insurance Principles
+  vars n     mean       sd median  trimmed      mad   min    max range skew kurtosis     se
+1    1 7 73807.86 17707.23  68555 73807.86 10063.89 57605 104211 46606 0.71     -1.4 6692.7
+--------------------------------------------------------------------------------------- 
+group: Basic Electricity
+  vars n     mean       sd  median  trimmed      mad   min    max range skew kurtosis      se
+1    1 6 79391.17 19638.25 77479.5 79391.17 27122.68 58460 104515 46055 0.12    -2.02 8017.28
+--------------------------------------------------------------------------------------- 
+group: Basic Skills/Remedial English
+  vars   n     mean       sd median  trimmed      mad min    max  range  skew kurtosis     se
+1    1 812 66958.11 21158.92  65886 67424.29 21282.72 241 122688 122447 -0.15    -0.27 742.53
+--------------------------------------------------------------------------------------- 
+group: Bilingual/Bicultural
+  vars   n     mean      sd median  trimmed      mad   min    max  range skew kurtosis     se
+1    1 737 71460.25 18443.7  68042 70302.81 21782.36 22000 122916 100916 0.38    -0.78 679.38
+--------------------------------------------------------------------------------------- 
+group: Body/Fender Repair
+  vars  n     mean       sd  median  trimmed      mad   min    max range skew kurtosis     se
+1    1 16 72064.88 16414.41 71439.5 71463.93 17885.35 50850 101693 50843 0.32    -1.23 4103.6
+--------------------------------------------------------------------------------------- 
+group: Bookkeeping  Accounting
+  vars   n     mean       sd median  trimmed      mad   min    max range skew kurtosis      se
+1    1 100 73349.64 17646.78  72391 72270.02 16921.66 27352 123555 96203  0.4    -0.01 1764.68
+--------------------------------------------------------------------------------------- 
+group: Building Maintenance
+  vars  n     mean       sd  median trimmed      mad   min   max range skew kurtosis      se
+1    1 14 68168.86 13117.99 63584.5 67886.5 15493.91 51380 88346 36966 0.22    -1.64 3505.93
+--------------------------------------------------------------------------------------- 
+group: Building Trades
+  vars  n     mean       sd median  trimmed      mad   min    max range skew kurtosis      se
+1    1 16 78357.81 20107.28  76462 78472.93 17758.58 45779 109325 63546 0.09    -1.12 5026.82
+--------------------------------------------------------------------------------------- 
+group: Business English
+  vars n     mean      sd  median  trimmed     mad   min   max range skew kurtosis      se
+1    1 4 50511.25 6946.73 52217.5 50511.25 4070.48 40684 56926 16242 -0.5    -1.81 3473.36
+--------------------------------------------------------------------------------------- 
+group: Business Law
+  vars  n     mean       sd median  trimmed      mad   min    max range skew kurtosis      se
+1    1 59 66428.66 18717.71  60198 64612.47 16270.05 43000 129660 86660    1     0.72 2436.84
+--------------------------------------------------------------------------------------- 
+group: Business Machine Maintenance & Repair
+  vars n  mean sd median trimmed mad   min   max range skew kurtosis se
+1    1 1 32680 NA  32680   32680   0 32680 32680     0   NA       NA NA
+--------------------------------------------------------------------------------------- 
+group: Business Math
+  vars  n     mean       sd median  trimmed      mad   min    max range skew kurtosis      se
+1    1 18 68389.78 21479.41  63654 67484.69 16030.61 37140 114121 76981 0.73    -0.67 5062.75
+--------------------------------------------------------------------------------------- 
+group: Business Organization
+  vars   n     mean       sd median  trimmed      mad  min    max  range skew kurtosis    se
+1    1 428 70307.68 18238.66  65533 68821.17 17333.08 4000 128825 124825 0.49     0.27 881.6
+--------------------------------------------------------------------------------------- 
+group: Career Education
+  vars  n     mean       sd median  trimmed      mad   min    max range skew kurtosis      se
+1    1 71 74395.55 19378.01  74140 73710.39 23514.04 24569 115875 91306 0.14    -0.63 2299.75
+--------------------------------------------------------------------------------------- 
+group: Carpentry
+  vars  n    mean       sd median  trimmed      mad   min    max range  skew kurtosis      se
+1    1 49 74483.9 15053.82  76571 74329.83 15451.66 48958 112610 63652 -0.01    -0.64 2150.55
+--------------------------------------------------------------------------------------- 
+group: Ceramics
+  vars n    mean      sd median trimmed     mad   min   max range skew kurtosis      se
+1    1 5 57479.4 9227.18  54784 57479.4 4913.34 50758 73348 22590 0.88    -1.16 4126.52
+--------------------------------------------------------------------------------------- 
+group: Chef Preparation
+  vars n  mean      sd median trimmed     mad   min   max range skew kurtosis   se
+1    1 2 53456 4361.43  53456   53456 4572.34 50372 56540  6168    0    -2.75 3084
+--------------------------------------------------------------------------------------- 
+group: Chinese
+  vars   n     mean       sd median  trimmed      mad   min    max range skew kurtosis      se
+1    1 113 57550.74 20769.98  56300 57214.84 12698.47 10443 108101 97658 0.11    -0.11 1953.88
+--------------------------------------------------------------------------------------- 
+group: Chinese Grades 5 - 8 
+  vars  n    mean       sd median  trimmed     mad   min   max range  skew kurtosis      se
+1    1 15 50802.4 16979.84  55415 51861.23 6642.05 11832 76008 64176 -1.29     0.87 4384.18
+--------------------------------------------------------------------------------------- 
+group: Cinema/TV Production
+  vars  n     mean       sd  median  trimmed      mad   min   max range skew kurtosis      se
+1    1 56 66278.75 17555.74 60813.5 65674.11 18607.37 30237 99705 69468 0.36    -1.04 2345.98
+--------------------------------------------------------------------------------------- 
+group: Clerical Office Practices
+  vars  n    mean       sd median  trimmed      mad   min    max range skew kurtosis     se
+1    1 51 73773.9 17548.66  69985 72650.49 19382.03 41200 117633 76433 0.47    -0.71 2457.3
+--------------------------------------------------------------------------------------- 
+group: Commercial Art 
+  vars  n    mean       sd  median  trimmed      mad   min    max range skew kurtosis      se
+1    1 18 75801.5 16510.78 72834.5 75561.94 24640.81 53257 102179 48922  0.1    -1.57 3891.63
+--------------------------------------------------------------------------------------- 
+group: Commercial Food Services
+  vars n    mean       sd median trimmed     mad   min   max range skew kurtosis      se
+1    1 5 80998.8 10363.42  74739 80998.8 3335.85 72489 95909 23420 0.44    -1.95 4634.66
+--------------------------------------------------------------------------------------- 
+group: Commercial Photography 
+  vars n  mean       sd median trimmed    mad   min   max range  skew kurtosis      se
+1    1 3 63877 11420.41  70415   63877 164.57 50690 70526 19836 -0.38    -2.33 6593.58
+--------------------------------------------------------------------------------------- 
+group: Computer Literacy/Applications/Programming
+  vars   n     mean       sd median  trimmed      mad  min    max  range skew kurtosis     se
+1    1 715 72037.57 16823.99  70702 71644.31 20107.02 8625 120958 112333 0.08    -0.32 629.18
+--------------------------------------------------------------------------------------- 
+group: Computer Network System
+  vars n     mean      sd median  trimmed      mad   min    max range skew kurtosis      se
+1    1 8 76976.12 21469.2  72976 76976.12 24246.44 48603 109266 60663 0.21    -1.67 7590.51
+--------------------------------------------------------------------------------------- 
+group: Computer Service Technicians
+  vars n     mean       sd  median  trimmed      mad   min   max range  skew kurtosis      se
+1    1 8 50060.12 13441.28 51764.5 50060.12 12992.77 25000 64896 39896 -0.55    -1.03 4752.21
+--------------------------------------------------------------------------------------- 
+group: Computer Technology
+  vars   n     mean       sd median  trimmed      mad  min    max  range skew kurtosis      se
+1    1 124 71244.75 20425.79  68651 70103.56 21860.94 8000 148508 140508 0.36     1.37 1834.29
+--------------------------------------------------------------------------------------- 
+group: Construction Technology
+  vars n     mean       sd median  trimmed      mad   min   max range  skew kurtosis     se
+1    1 7 69947.86 14991.35  69264 69947.86 22320.54 51111 84790 33679 -0.18    -1.94 5666.2
+--------------------------------------------------------------------------------------- 
+group: Cooperative  Education Coordinator (Non Hazardous Occupations)
+  vars  n    mean       sd median  trimmed      mad   min    max range  skew kurtosis     se
+1    1 21 81654.1 17940.32  87293 82392.59 18207.81 46608 106236 59628 -0.37    -1.25 3914.9
+--------------------------------------------------------------------------------------- 
+group: Cooperative Agricultural Education
+  vars n    mean       sd  median trimmed     mad   min   max range skew kurtosis     se
+1    1 2 59951.5 10651.15 59951.5 59951.5 11166.2 52420 67483 15063    0    -2.75 7531.5
+--------------------------------------------------------------------------------------- 
+group: Cooperative Education Coordinator (Hazardous Occupations)
+  vars  n     mean       sd median  trimmed      mad   min    max range skew kurtosis      se
+1    1 16 92925.19 13528.05  89493 92709.93 16042.47 68708 120156 51448 0.19    -0.93 3382.01
+--------------------------------------------------------------------------------------- 
+group: Coordinator Substance Abuse
+  vars   n     mean       sd  median  trimmed      mad  min    max  range  skew kurtosis     se
+1    1 362 76781.63 18605.64 76132.5 76588.54 21209.33 2625 119261 116636 -0.13     0.04 977.89
+--------------------------------------------------------------------------------------- 
+group: Cosmetology/Hair Styling
+  vars  n     mean       sd median  trimmed      mad   min    max range skew kurtosis      se
+1    1 73 68752.86 16571.86  68773 68013.95 20590.35 25802 109271 83469 0.25    -0.54 1939.59
+--------------------------------------------------------------------------------------- 
+group: County Apprenticeship Coordinator
+  vars n  mean sd median trimmed mad   min   max range skew kurtosis se
+1    1 1 99169 NA  99169   99169   0 99169 99169     0   NA       NA NA
+--------------------------------------------------------------------------------------- 
+group: Culinary Arts
+  vars  n     mean      sd  median  trimmed     mad   min   max range  skew kurtosis      se
+1    1 58 59275.98 15899.2 57797.5 59598.25 9659.14 12222 88895 76673 -0.52      1.5 2087.67
+--------------------------------------------------------------------------------------- 
+group: Custodial Services
+  vars   n     mean       sd median  trimmed      mad   min   max range skew kurtosis     se
+1    1 173 45199.24 12832.19  45064 45366.96 10975.69 17122 99552 82430 0.19     0.92 975.61
+--------------------------------------------------------------------------------------- 
+group: Dance
+  vars   n     mean       sd median  trimmed      mad   min    max range skew kurtosis      se
+1    1 109 63312.39 18288.62  58740 63256.02 13951.27 19782 111000 91218 0.12     0.07 1751.73
+--------------------------------------------------------------------------------------- 
+group: Data Entry
+  vars  n     mean       sd median  trimmed     mad   min    max range skew kurtosis      se
+1    1 16 73000.94 19219.65  67369 72086.36 16559.9 52103 106703 54600 0.65    -1.22 4804.91
+--------------------------------------------------------------------------------------- 
+group: Data Management
+  vars n     mean     sd median  trimmed     mad   min   max range  skew kurtosis      se
+1    1 3 54161.67 2654.1  55235 54161.67 1298.76 51139 56111  4972 -0.34    -2.33 1532.34
+--------------------------------------------------------------------------------------- 
+group: Data Processing
+  vars  n     mean      sd median  trimmed      mad   min    max range  skew kurtosis      se
+1    1 38 73541.66 23032.3  77840 73816.22 27729.81 31368 119623 88255 -0.02    -1.02 3736.33
+--------------------------------------------------------------------------------------- 
+group: Dental Assisting
+  vars  n     mean       sd  median trimmed      mad   min    max range skew kurtosis      se
+1    1 16 75606.56 18108.03 78165.5 75335.5 19685.96 47195 107813 60618 0.18     -1.2 4527.01
+--------------------------------------------------------------------------------------- 
+group: Desktop Publishing
+  vars n  mean sd median trimmed mad   min   max range skew kurtosis se
+1    1 1 57117 NA  57117   57117   0 57117 57117     0   NA       NA NA
+--------------------------------------------------------------------------------------- 
+group: Diesel Mechanic
+  vars n     mean       sd  median  trimmed     mad   min   max range  skew kurtosis      se
+1    1 6 76785.33 11626.33 77543.5 76785.33 6682.08 57585 92270 34685 -0.34    -1.22 4746.43
+--------------------------------------------------------------------------------------- 
+group: Director of School Counseling Services
+  vars   n     mean       sd  median  trimmed     mad   min    max  range skew kurtosis      se
+1    1 124 88943.98 22471.35 84523.5 88055.42 22890.6 32923 167230 134307  0.5     0.56 2017.99
+--------------------------------------------------------------------------------------- 
+group: Draft/Design Technology
+  vars  n     mean      sd median  trimmed      mad   min   max range skew kurtosis      se
+1    1 21 66762.71 15878.4  68847 67896.18 12987.58 20616 90289 69673 -0.9     1.14 3464.95
+--------------------------------------------------------------------------------------- 
+group: Drafting
+  vars n  mean       sd median trimmed      mad   min    max range  skew kurtosis      se
+1    1 9 90513 16378.85  90993   90513 11241.07 60131 120365 60234 -0.06     -0.4 5459.62
+--------------------------------------------------------------------------------------- 
+group: Drafting and Design Technology (Includes Mechanical Architectural Machine Drawing Architecture/Home Planning Blueprint Reading Industrial Arts Industrial Drafting)
+  vars   n     mean       sd  median trimmed     mad   min    max range skew kurtosis      se
+1    1 164 79152.44 16434.91 80601.5 79393.3 18476.9 35736 111388 75652 -0.2    -0.83 1283.35
+--------------------------------------------------------------------------------------- 
+group: Driver Education
+  vars  n     mean       sd median  trimmed      mad  min    max  range  skew kurtosis      se
+1    1 53 75318.96 20431.75  76965 75997.09 20296.79 2401 112939 110538 -0.71     1.24 2806.52
+--------------------------------------------------------------------------------------- 
+group: Economics/Economic Geography
+  vars  n     mean       sd median  trimmed     mad   min   max range skew kurtosis      se
+1    1 39 63606.31 14481.04  56150 62146.91 7469.34 48681 96704 48023  0.9    -0.65 2318.82
+--------------------------------------------------------------------------------------- 
+group: Educational Interpreter-Oral Interpreting
+  vars n  mean      sd median trimmed   mad   min   max range skew kurtosis      se
+1    1 3 64416 14413.7  56392   64416 877.7 55800 81056 25256 0.38    -2.33 8321.75
+--------------------------------------------------------------------------------------- 
+group: Educational Interpreter-Sign Language Interpreting
+  vars  n     mean       sd median  trimmed     mad min   max range  skew kurtosis      se
+1    1 94 43984.51 14225.64  44549 44686.18 6633.15  32 99505 99473 -0.24     5.22 1467.26
+--------------------------------------------------------------------------------------- 
+group: Electrical Technology
+  vars n     mean       sd  median  trimmed      mad   min    max range skew kurtosis       se
+1    1 6 65687.33 31221.39 59376.5 65687.33 14986.12 24529 119478 94949 0.47    -1.02 12746.08
+--------------------------------------------------------------------------------------- 
+group: Electricity
+  vars  n     mean       sd median  trimmed      mad   min    max range skew kurtosis      se
+1    1 18 78708.22 14184.08  77766 78886.44 11398.97 52843 101722 48879 0.03    -0.72 3343.22
+--------------------------------------------------------------------------------------- 
+group: Electricity/Electronics
+  vars n     mean       sd median  trimmed      mad   min   max range  skew kurtosis      se
+1    1 7 77135.14 14065.74  75753 77135.14 12919.38 55018 97429 42411 -0.08    -1.39 5316.35
+--------------------------------------------------------------------------------------- 
+group: Electronic Technology
+  vars n     mean      sd  median  trimmed     mad   min    max range  skew kurtosis      se
+1    1 8 86145.62 17251.8 89850.5 86145.62 18089.2 59581 108830 49249 -0.22    -1.67 6099.43
+--------------------------------------------------------------------------------------- 
+group: Electronics
+  vars n     mean       sd  median  trimmed      mad   min    max range skew kurtosis       se
+1    1 8 83419.12 30565.52 80642.5 83419.12 34451.92 50400 142139 91739 0.62    -0.96 10806.54
+--------------------------------------------------------------------------------------- 
+group: Elementary Kindergraten-8 Grade
+  vars     n     mean      sd  median  trimmed      mad min    max  range skew kurtosis     se
+1    1 19522 68883.25 16903.5 65848.5 68139.52 17355.32   0 166386 166386 0.21     0.08 120.98
+--------------------------------------------------------------------------------------- 
+group: Elementary School Teacher K-5
+  vars     n    mean       sd median  trimmed      mad min    max  range skew kurtosis     se
+1    1 13628 62783.6 16359.81  57950 61123.01 11213.65   0 130472 130472 0.82     0.62 140.14
+--------------------------------------------------------------------------------------- 
+group: Elementary Teacher in secondary setting APA Only Subcategory Identifier S H or V
+  vars   n     mean      sd median trimmed      mad  min    max  range skew kurtosis     se
+1    1 754 66298.45 16107.8  61475   65016 13085.43 2184 113409 111225 0.52     0.28 586.61
+--------------------------------------------------------------------------------------- 
+group: Engineering Drawing
+  vars  n     mean       sd  median trimmed      mad   min   max range skew kurtosis   se
+1    1 12 73197.92 15290.55 72342.5 72918.4 19656.31 51670 97521 45851 0.02    -1.59 4414
+--------------------------------------------------------------------------------------- 
+group: Engineering Technology
+  vars  n     mean       sd median  trimmed      mad   min   max range skew kurtosis      se
+1    1 11 70963.45 16593.12  66000 70908.67 16923.88 47856 94564 46708 0.24    -1.67 5003.01
+--------------------------------------------------------------------------------------- 
+group: English as a 2nd Language
+  vars    n     mean      sd  median  trimmed      mad  min    max  range skew kurtosis     se
+1    1 1806 71015.27 19957.5 67024.5 70351.27 21273.83 1461 126538 125077 0.21    -0.58 469.62
+--------------------------------------------------------------------------------------- 
+group: English Non-Elementary
+  vars    n     mean       sd median  trimmed      mad min    max  range skew kurtosis    se
+1    1 5185 67786.81 17022.79  63011 66328.72 15423.49   0 131170 131170 0.62     0.04 236.4
+--------------------------------------------------------------------------------------- 
+group: English/Elementary          
+  vars   n     mean       sd median  trimmed      mad   min    max range skew kurtosis    se
+1    1 505 67302.93 16173.33  63599 66005.52 15715.56 20000 108565 88565 0.58    -0.37 719.7
+--------------------------------------------------------------------------------------- 
+group: Environmental Occupations
+  vars n  mean sd median trimmed mad   min   max range skew kurtosis se
+1    1 1 78601 NA  78601   78601   0 78601 78601     0   NA       NA NA
+--------------------------------------------------------------------------------------- 
+group: Family & Consumer Sciences - Child & Family Development
+  vars  n     mean       sd median  trimmed      mad   min    max range skew kurtosis      se
+1    1 64 73083.86 18659.52  73468 72105.04 18846.81 42748 118078 75330 0.34    -0.71 2332.44
+--------------------------------------------------------------------------------------- 
+group: Family & Consumer Sciences - Comprehensive
+  vars   n     mean       sd median  trimmed      mad   min    max  range skew kurtosis      se
+1    1 306 72313.23 17560.81  70749 71741.28 21161.15 25250 128038 102788 0.21     -0.4 1003.88
+--------------------------------------------------------------------------------------- 
+group: Family & Consumer Sciences – Apparel Textiles and Interiors
+  vars  n    mean       sd median  trimmed      mad   min    max range skew kurtosis      se
+1    1 53 74016.3 18068.72  73155 72987.95 21024.75 46000 116189 70189 0.34    -0.77 2481.93
+--------------------------------------------------------------------------------------- 
+group: Family & Consumer Sciences – Foods/Nutrition & Food Science
+  vars   n     mean       sd median  trimmed      mad   min    max  range skew kurtosis      se
+1    1 179 72723.79 26366.61  67116 70493.26 20811.26 31223 326425 295202 5.02    45.35 1970.73
+--------------------------------------------------------------------------------------- 
+group: Family Life Education
+  vars  n     mean       sd  median  trimmed      mad   min    max range skew kurtosis      se
+1    1 28 68050.07 16882.69 66821.5 67909.75 17695.57 28000 104515 76515 0.01    -0.37 3190.53
+--------------------------------------------------------------------------------------- 
+group: Financial & Investment Principles
+  vars  n     mean      sd  median  trimmed      mad   min    max range skew kurtosis     se
+1    1 98 66060.41 19061.5 59644.5 65076.32 16061.75 17000 111533 94533 0.35    -0.08 1925.5
+--------------------------------------------------------------------------------------- 
+group: Financial Literacy (Math Social Studies Business:  Finance Economics Law Comprehensive Business Comprehensive Family and Consumer Sciences and General Business Teachers) can hold this Job Code
+  vars  n     mean       sd median  trimmed     mad   min    max range skew kurtosis      se
+1    1 75 66296.73 17491.68  61747 65547.74 12968.3 27135 104928 77793 0.41    -0.47 2019.77
+--------------------------------------------------------------------------------------- 
+group: Food Management
+  vars n     mean       sd  median  trimmed      mad   min   max range skew kurtosis      se
+1    1 6 63753.83 16274.39 59539.5 63753.83 14375.29 48000 92537 44537 0.71    -1.16 6643.99
+--------------------------------------------------------------------------------------- 
+group: Food Production
+  vars  n     mean       sd median  trimmed     mad   min    max range skew kurtosis      se
+1    1 27 74034.78 11594.32  75521 73943.48 8650.97 47985 102466 54481 0.07     0.16 2231.33
+--------------------------------------------------------------------------------------- 
+group: Food Services
+  vars  n     mean       sd median  trimmed      mad  min    max  range skew kurtosis      se
+1    1 60 72404.15 22988.07  71244 74337.77 20017.32 2082 115000 112918 -0.8      1.1 2967.75
+--------------------------------------------------------------------------------------- 
+group: Food Technology
+  vars n     mean       sd median  trimmed     mad   min    max range skew kurtosis       se
+1    1 3 80224.67 22787.47  68301 80224.67 3599.75 65873 106500 40627 0.38    -2.33 13156.35
+--------------------------------------------------------------------------------------- 
+group: French
+  vars   n     mean       sd median  trimmed      mad   min    max  range  skew kurtosis     se
+1    1 586 69198.49 18301.36  66465 69015.66 18156.66 10326 115076 104750 -0.02     0.07 756.02
+--------------------------------------------------------------------------------------- 
+group: French Grades 5 - 8 
+  vars   n     mean       sd median  trimmed      mad   min    max range  skew kurtosis     se
+1    1 108 68823.26 17104.66  66285 68649.15 18189.28 21149 102418 81269 -0.07    -0.09 1645.9
+--------------------------------------------------------------------------------------- 
+group: Furniture Refinish
+  vars n     mean      sd median  trimmed    mad   min   max range  skew kurtosis      se
+1    1 3 77211.33 5021.29  78596 77211.33 4149.8 71643 81395  9752 -0.25    -2.33 2899.04
+--------------------------------------------------------------------------------------- 
+group: General Metalwork
+  vars n  mean      sd  median trimmed     mad   min   max range skew kurtosis      se
+1    1 4 84704 4642.18 83629.5   84704 3925.18 80982 90575  9593 0.26    -2.15 2321.09
+--------------------------------------------------------------------------------------- 
+group: General Shop
+  vars   n    mean       sd median  trimmed      mad   min    max range  skew kurtosis      se
+1    1 105 81032.4 16262.59  83235 81833.85 14548.75 33958 120293 86335 -0.48      0.2 1587.07
+--------------------------------------------------------------------------------------- 
+group: General Woodwork
+  vars   n     mean       sd  median  trimmed      mad   min    max range  skew kurtosis      se
+1    1 100 77636.85 15743.18 79902.5 77900.77 17003.94 46379 117722 71343 -0.13    -0.68 1574.32
+--------------------------------------------------------------------------------------- 
+group: German
+  vars   n     mean      sd median  trimmed      mad   min    max range  skew kurtosis      se
+1    1 107 70005.91 20292.3  68561 70456.46 22667.47 10723 107743 97020 -0.24    -0.35 1961.73
+--------------------------------------------------------------------------------------- 
+group: German Grades 5 - 8
+  vars  n  mean       sd median  trimmed     mad   min   max range skew kurtosis     se
+1    1 15 57185 10404.39  55580 56633.85 7531.61 40470 81065 40595 0.81     0.11 2686.4
+--------------------------------------------------------------------------------------- 
+group: Graphic Arts
+  vars  n     mean       sd median trimmed      mad   min    max range skew kurtosis      se
+1    1 59 78347.64 19200.64  80402 77547.2 21414.67 48062 120489 72427  0.2    -0.88 2499.71
+--------------------------------------------------------------------------------------- 
+group: Graphic Arts 
+  vars  n     mean      sd median trimmed      mad   min    max range skew kurtosis      se
+1    1 31 69569.13 20130.4  61623 68047.4 14388.63 31113 114998 83885 0.54    -0.69 3615.53
+--------------------------------------------------------------------------------------- 
+group: Health
+  vars   n     mean       sd median  trimmed      mad  min    max  range skew kurtosis      se
+1    1 198 70434.75 19411.07  68884 70361.86 19446.52 7200 114140 106940 -0.1     0.17 1379.49
+--------------------------------------------------------------------------------------- 
+group: Health & Physical Education
+  vars    n     mean       sd median  trimmed      mad  min    max  range skew kurtosis     se
+1    1 5064 68856.31 17895.19  65646 68009.03 19533.25 5500 146806 141306  0.3    -0.18 251.47
+--------------------------------------------------------------------------------------- 
+group: Health Fitness
+  vars n    mean       sd median trimmed     mad   min    max range skew kurtosis       se
+1    1 5 71961.4 22987.72  62738 71961.4 1571.56 58459 112927 54468 1.05    -0.94 10280.42
+--------------------------------------------------------------------------------------- 
+group: Health Occupation
+  vars  n    mean       sd median trimmed      mad   min    max range skew kurtosis      se
+1    1 60 74855.1 13664.86  75673 74797.5 16303.41 43279 101710 58431 0.02    -0.76 1764.13
+--------------------------------------------------------------------------------------- 
+group: Heating/Ventilation
+  vars n  mean      sd median trimmed     mad   min   max range skew kurtosis   se
+1    1 2 74209 3419.57  74209   74209 3584.93 71791 76627  4836    0    -2.75 2418
+--------------------------------------------------------------------------------------- 
+group: Heating/Ventilation/Air Conditioning/Refrigeration
+  vars n     mean       sd median  trimmed      mad   min    max range skew kurtosis      se
+1    1 9 70364.67 18901.82  63498 70364.67 15776.35 51285 101722 50437 0.48     -1.6 6300.61
+--------------------------------------------------------------------------------------- 
+group: Hebrew
+  vars n     mean      sd median  trimmed     mad   min   max range skew kurtosis      se
+1    1 3 47361.67 2372.13  46680 47361.67 1890.31 45405 50000  4595 0.26    -2.33 1369.55
+--------------------------------------------------------------------------------------- 
+group: Hebrew Grades 5 - 8 
+  vars n  mean sd median trimmed mad   min   max range skew kurtosis se
+1    1 1 33979 NA  33979   33979   0 33979 33979     0   NA       NA NA
+--------------------------------------------------------------------------------------- 
+group: Home Mechanics
+  vars n     mean      sd  median  trimmed     mad   min   max range skew kurtosis      se
+1    1 4 83531.25 4657.41 83146.5 83531.25 3752.46 78240 89592 11352 0.18    -1.87 2328.71
+--------------------------------------------------------------------------------------- 
+group: Hotel and Lodging
+  vars n     mean     sd median  trimmed    mad   min   max range skew kurtosis     se
+1    1 3 63048.67 1255.9  62592 63048.67 751.68 62085 64469  2384 0.32    -2.33 725.09
+--------------------------------------------------------------------------------------- 
+group: Human Development & Child Care Services
+  vars n     mean       sd median  trimmed      mad   min   max range  skew kurtosis      se
+1    1 7 55934.71 25386.95  56735 55934.71 17771.93 10000 89522 79522 -0.46    -0.98 9595.36
+--------------------------------------------------------------------------------------- 
+group: In-School Suspension
+  vars   n     mean       sd median  trimmed     mad   min    max  range  skew kurtosis     se
+1    1 100 72968.35 22221.98  72254 72781.84 23597.8 18500 119969 101469 -0.08    -0.21 2222.2
+--------------------------------------------------------------------------------------- 
+group: Industrial Design
+  vars n     mean       sd median  trimmed      mad   min    max range skew kurtosis     se
+1    1 9 80963.44 24319.81  80903 80963.44 31199.83 52387 114130 61743 0.23    -1.77 8106.6
+--------------------------------------------------------------------------------------- 
+group: Information Support & Services
+  vars  n     mean       sd median  trimmed      mad   min    max range skew kurtosis      se
+1    1 11 67424.64 16750.53  61714 65273.33 13660.68 51160 103051 51891  0.9    -0.58 5050.48
+--------------------------------------------------------------------------------------- 
+group: Interactive Media
+  vars n  mean       sd median trimmed      mad   min   max range skew kurtosis       se
+1    1 3 70436 21248.76  62993   70436 13466.46 53910 94405 40495 0.31    -2.33 12267.98
+--------------------------------------------------------------------------------------- 
+group: Internet& Online Technology
+  vars n     mean       sd  median  trimmed     mad   min   max range skew kurtosis      se
+1    1 6 67255.17 13822.39 62459.5 67255.17 9995.69 53350 89384 36034  0.5    -1.62 5642.97
+--------------------------------------------------------------------------------------- 
+group: Introduction to Vocations
+  vars  n     mean       sd median trimmed      mad   min   max range  skew kurtosis      se
+1    1 14 72009.43 10986.76  72503   72019 13470.16 54935 88969 34034 -0.04     -1.5 2936.33
+--------------------------------------------------------------------------------------- 
+group: Italian
+  vars   n     mean       sd median  trimmed      mad   min    max range skew kurtosis      se
+1    1 286 69680.17 18246.28  66781 68903.65 19313.83 21536 112939 91403 0.29     -0.4 1078.92
+--------------------------------------------------------------------------------------- 
+group: Italian Grades 5 - 8 
+  vars  n     mean       sd  median  trimmed     mad   min   max range  skew kurtosis      se
+1    1 32 58284.69 15391.66 58254.5 58630.65 7745.84 10516 91001 80485 -0.81     2.58 2720.89
+--------------------------------------------------------------------------------------- 
+group: Japanese
+  vars  n     mean       sd median  trimmed      mad   min    max range  skew kurtosis      se
+1    1 11 79351.64 19228.28  89524 79814.67 23943.99 46935 107601 60666 -0.25     -1.5 5797.54
+--------------------------------------------------------------------------------------- 
+group: Kindergarten                  
+  vars    n     mean       sd  median  trimmed      mad  min    max  range skew kurtosis     se
+1    1 3096 66387.56 16655.27 61772.5 65276.63 15178.12 5510 117194 111684 0.46    -0.18 299.33
+--------------------------------------------------------------------------------------- 
+group: Korean
+  vars n  mean      sd median trimmed    mad   min   max range  skew kurtosis      se
+1    1 3 47840 2221.05  49042   47840 235.73 45277 49201  3924 -0.38    -2.33 1282.32
+--------------------------------------------------------------------------------------- 
+group: Laboratory Technology
+  vars n  mean sd median trimmed mad   min   max range skew kurtosis se
+1    1 1 87232 NA  87232   87232   0 87232 87232     0   NA       NA NA
+--------------------------------------------------------------------------------------- 
+group: Lang Arts/Literacy Grades 5 - 8
+  vars    n    mean       sd median  trimmed      mad  min    max  range skew kurtosis     se
+1    1 3474 65127.7 15842.63  60650 63696.57 12992.02 1700 125949 124249  0.7     0.51 268.79
+--------------------------------------------------------------------------------------- 
+group: Language Arts/Literacy 
+  vars   n     mean       sd median  trimmed     mad   min    max range skew kurtosis      se
+1    1 241 67054.39 16970.53  64365 65558.97 17893.5 22071 113739 91668 0.65    -0.27 1093.17
+--------------------------------------------------------------------------------------- 
+group: Latin
+  vars   n     mean       sd median  trimmed      mad   min    max  range skew kurtosis      se
+1    1 113 69608.55 18567.26  66750 69631.01 18784.54 12520 121421 108901 0.01     0.27 1746.66
+--------------------------------------------------------------------------------------- 
+group: Latin Grades 5 - 8 
+  vars  n     mean       sd median  trimmed      mad   min    max range skew kurtosis      se
+1    1 13 69448.38 20419.61  61923 67984.18 12458.29 46246 108757 62511 0.84    -0.73 5663.38
+--------------------------------------------------------------------------------------- 
+group: Law Enforcement
+  vars  n     mean      sd median  trimmed      mad min    max  range  skew kurtosis      se
+1    1 34 65824.91 17184.6  66381 65834.39 12024.63  34 100771 100737 -1.06     4.58 2947.13
+--------------------------------------------------------------------------------------- 
+group: Learning Disabilities Teacher Consultant
+  vars    n     mean       sd median  trimmed      mad min    max  range skew kurtosis     se
+1    1 1477 80683.28 20243.42  83101 81765.53 20703.03   1 147354 147353 -0.7     1.08 526.74
+--------------------------------------------------------------------------------------- 
+group: Leatherworking
+  vars n  mean       sd median trimmed      mad   min   max range skew kurtosis   se
+1    1 2 77543 10342.14  77543   77543 10842.25 70230 84856 14626    0    -2.75 7313
+--------------------------------------------------------------------------------------- 
+group: Legal Assisting
+  vars n    mean       sd  median trimmed     mad   min   max range skew kurtosis      se
+1    1 2 54932.5 56296.31 54932.5 54932.5 59018.6 15125 94740 79615    0    -2.75 39807.5
+--------------------------------------------------------------------------------------- 
+group: Library Skills Development
+  vars  n    mean       sd  median  trimmed      mad   min    max range skew kurtosis      se
+1    1 30 74045.4 19898.32 73696.5 73033.67 24165.64 43426 111280 67854 0.34    -1.04 3632.92
+--------------------------------------------------------------------------------------- 
+group: Machine Shop
+  vars n     mean       sd median  trimmed      mad   min    max range  skew kurtosis       se
+1    1 7 84695.14 29179.65  88969 84695.14 10456.78 22825 116138 93313 -1.16     0.09 11028.87
+--------------------------------------------------------------------------------------- 
+group: Maintenance Mechanics
+  vars n     mean       sd  median  trimmed      mad   min   max range skew kurtosis      se
+1    1 4 73444.75 16982.37 70778.5 73444.75 15366.41 56804 95418 38614 0.27    -2.04 8491.18
+--------------------------------------------------------------------------------------- 
+group: Marine Sciences
+  vars n  mean      sd median trimmed     mad   min   max range skew kurtosis   se
+1    1 2 85124 1974.24  85124   85124 2069.71 83728 86520  2792    0    -2.75 1396
+--------------------------------------------------------------------------------------- 
+group: Marine Trades Technology 
+  vars n    mean      sd  median trimmed      mad   min   max range skew kurtosis     se
+1    1 2 58815.5 12457.1 58815.5 58815.5 13059.48 50007 67624 17617    0    -2.75 8808.5
+--------------------------------------------------------------------------------------- 
+group: Marketing Education
+  vars  n    mean      sd  median  trimmed      mad   min    max range skew kurtosis      se
+1    1 10 72878.8 16894.5 71235.5 71867.75 21899.48 50758 103088 52330 0.29    -1.35 5342.51
+--------------------------------------------------------------------------------------- 
+group: Marketing/Sales
+  vars  n     mean       sd  median  trimmed      mad   min    max range skew kurtosis      se
+1    1 78 72436.38 16901.16 73603.5 71552.38 20126.29 40299 116666 76367 0.35    -0.62 1913.68
+--------------------------------------------------------------------------------------- 
+group: Masonry
+  vars n    mean       sd  median trimmed      mad   min   max range skew kurtosis      se
+1    1 4 65233.5 14778.83 63958.5 65233.5 13725.17 48817 84200 35383 0.18    -1.94 7389.42
+--------------------------------------------------------------------------------------- 
+group: Math Non-Elementary
+  vars    n     mean       sd median  trimmed      mad min    max  range skew kurtosis    se
+1    1 5116 68975.97 17638.37  64265 67537.99 17665.18  34 140000 139966 0.58    -0.26 246.6
+--------------------------------------------------------------------------------------- 
+group: Mathematics Grades 5 - 8
+  vars    n     mean       sd median  trimmed      mad   min    max  range skew kurtosis     se
+1    1 3246 64508.24 15526.26  59843 63049.57 12072.81 12000 122916 110916 0.72     0.29 272.52
+--------------------------------------------------------------------------------------- 
+group: Mathematics/Elementary           
+  vars   n     mean       sd median  trimmed      mad   min    max  range skew kurtosis     se
+1    1 477 67023.31 16146.09  62732 66018.44 15038.01 19685 124074 104389 0.52    -0.24 739.28
+--------------------------------------------------------------------------------------- 
+group: Medical Assistant
+  vars  n     mean      sd  median trimmed      mad   min    max  range  skew kurtosis      se
+1    1 12 66667.25 30810.9 69017.5 67979.7 20457.66 10000 110210 100210 -0.63    -0.64 8894.34
+--------------------------------------------------------------------------------------- 
+group: Medical Dental Assistant
+  vars n   mean sd median trimmed mad    min    max range skew kurtosis se
+1    1 1 106817 NA 106817  106817   0 106817 106817     0   NA       NA NA
+--------------------------------------------------------------------------------------- 
+group: Millwork/Cabinet Making
+  vars n    mean      sd  median trimmed     mad   min   max range skew kurtosis     se
+1    1 2 70217.5 2088.09 70217.5 70217.5 2189.06 68741 71694  2953    0    -2.75 1476.5
+--------------------------------------------------------------------------------------- 
+group: Music Comprehensive
+  vars    n     mean       sd median  trimmed      mad  min    max  range  skew kurtosis     se
+1    1 1619 67208.35 19633.49  63763 67151.16 19023.24 1061 119620 118559 -0.01    -0.25 487.95
+--------------------------------------------------------------------------------------- 
+group: Music Instrumental
+  vars    n     mean       sd median  trimmed      mad  min    max  range  skew kurtosis     se
+1    1 1167 69345.17 18913.98  67285 69155.17 20965.45 1012 136149 135137 -0.02     0.02 553.67
+--------------------------------------------------------------------------------------- 
+group: Music Vocal
+  vars   n     mean      sd median  trimmed      mad  min    max  range  skew kurtosis     se
+1    1 835 68661.03 18746.4  66481 68490.73 20774.19 2507 116138 113631 -0.06    -0.02 648.75
+--------------------------------------------------------------------------------------- 
+group: Nursing Assistant (Aide)
+  vars  n     mean       sd median  trimmed      mad  min   max range  skew kurtosis      se
+1    1 14 31608.29 15452.07  32753 31709.67 19352.38 7000 55000 48000 -0.21    -1.36 4129.74
+--------------------------------------------------------------------------------------- 
+group: Occupation Therapist
+  vars   n     mean       sd  median trimmed      mad min    max  range  skew kurtosis  se
+1    1 586 69050.71 20479.51 71005.5 70674.7 18463.56  29 159000 158971 -0.65     1.19 846
+--------------------------------------------------------------------------------------- 
+group: Office Organization - Practices and Procedures
+  vars  n     mean       sd median  trimmed      mad   min    max range skew kurtosis      se
+1    1 45 73957.78 17164.67  77052 73697.62 19859.43 46637 110210 63573 0.02     -1.1 2558.76
+--------------------------------------------------------------------------------------- 
+group: Other Than Above
+  vars  n     mean       sd median  trimmed      mad   min    max range skew kurtosis      se
+1    1 21 64559.19 19933.63  58000 63445.71 14900.13 35788 103145 67357 0.55       -1 4349.87
+--------------------------------------------------------------------------------------- 
+group: Other World Lang Grades 5 - 8
+  vars   n     mean       sd median trimmed      mad   min    max range skew kurtosis      se
+1    1 105 71240.84 18314.56  66422 70472.6 19506.57 10000 105880 95880 0.07    -0.39 1787.32
+--------------------------------------------------------------------------------------- 
+group: Photography/Art of photography (HQ Only)
+  vars  n    mean       sd median  trimmed      mad   min    max range skew kurtosis      se
+1    1 15 72665.4 19675.97  69815 71659.62 17705.21 46755 111651 64896 0.62    -0.85 5080.31
+--------------------------------------------------------------------------------------- 
+group: Photography/Technical
+  vars  n     mean       sd median  trimmed     mad   min    max range skew kurtosis      se
+1    1 25 70208.48 18107.81  66000 68599.24 20356.1 48214 110884 62670 0.58    -0.81 3621.56
+--------------------------------------------------------------------------------------- 
+group: Physical Education
+  vars    n    mean       sd  median  trimmed      mad  min    max  range skew kurtosis     se
+1    1 1606 69616.7 19461.87 66038.5 69246.82 21277.53 1200 114165 112965 0.04    -0.46 485.64
+--------------------------------------------------------------------------------------- 
+group: Physical Therapist
+  vars   n     mean       sd median  trimmed      mad min    max  range  skew kurtosis      se
+1    1 221 69235.39 25297.85  73800 72138.18 18987.66   4 124474 124470 -0.98     0.69 1701.72
+--------------------------------------------------------------------------------------- 
+group: Plumbing & Pipefitting
+  vars  n     mean       sd  median  trimmed      mad   min    max range skew kurtosis      se
+1    1 14 77320.29 18411.86 77004.5 77056.67 24880.99 49325 108479 59154  0.1    -1.33 4920.78
+--------------------------------------------------------------------------------------- 
+group: Portuguese
+  vars n     mean       sd  median  trimmed      mad   min   max range skew kurtosis   se
+1    1 6 73743.83 17117.04 71314.5 73743.83 21909.86 55333 97919 42586 0.23    -1.88 6988
+--------------------------------------------------------------------------------------- 
+group: Power Mechanics
+  vars n  mean sd median trimmed mad   min   max range skew kurtosis se
+1    1 1 89461 NA  89461   89461   0 89461 89461     0   NA       NA NA
+--------------------------------------------------------------------------------------- 
+group: Practical Nurse
+  vars  n     mean       sd median  trimmed      mad   min    max range  skew kurtosis      se
+1    1 15 64663.33 25390.97  69826 64619.31 16735.59 17501 112398 94897 -0.24    -0.76 6555.92
+--------------------------------------------------------------------------------------- 
+group: Preschool   
+  vars    n    mean       sd  median  trimmed      mad   min    max  range skew kurtosis     se
+1    1 3150 64047.6 16283.13 59048.5 62495.71 12043.16 14040 132800 118760 0.75     0.39 290.12
+--------------------------------------------------------------------------------------- 
+group: Print Making/Art of Print Making (HQ Only)
+  vars n     mean       sd median  trimmed     mad   min   max range  skew kurtosis      se
+1    1 3 84807.67 10870.28  88088 84807.67 8261.05 72675 93660 20985 -0.27    -2.33 6275.96
+--------------------------------------------------------------------------------------- 
+group: Print Making/Technical
+  vars n  mean       sd median trimmed     mad   min    max range skew kurtosis    se
+1    1 2 84825 34648.23  84825   84825 36323.7 60325 109325 49000    0    -2.75 24500
+--------------------------------------------------------------------------------------- 
+group: Printing
+  vars  n     mean       sd median  trimmed      mad   min    max range skew kurtosis      se
+1    1 19 80204.16 12356.33  80776 80215.82 12146.94 57607 102603 44996 0.22    -0.82 2834.74
+--------------------------------------------------------------------------------------- 
+group: Public Speaking
+  vars n    mean       sd median trimmed     mad   min   max range skew kurtosis      se
+1    1 5 63699.8 11856.13  58000 63699.8 6486.38 53625 76599 22974 0.25    -2.24 5302.22
+--------------------------------------------------------------------------------------- 
+group: Radio and Theory
+  vars n   mean sd median trimmed mad    min    max range skew kurtosis se
+1    1 1 105580 NA 105580  105580   0 105580 105580     0   NA       NA NA
+--------------------------------------------------------------------------------------- 
+group: Radio Broadcasting
+  vars n     mean       sd median  trimmed      mad   min    max range skew kurtosis      se
+1    1 6 67663.17 19217.41  63248 67663.17 11049.82 48000 103001 55001 0.81    -0.89 7845.47
+--------------------------------------------------------------------------------------- 
+group: Reading Development/Remedial Elementary
+  vars   n     mean       sd median trimmed      mad  min    max  range  skew kurtosis     se
+1    1 599 75530.78 20368.08  77724 75942.3 22268.65 5000 116666 111666 -0.33     0.11 832.22
+--------------------------------------------------------------------------------------- 
+group: Reading Remedial-Secondary
+  vars  n     mean       sd median  trimmed      mad   min    max range skew kurtosis      se
+1    1 91 76369.46 18905.22  76190 76218.45 22691.19 31134 113280 82146 0.02    -0.92 1981.81
+--------------------------------------------------------------------------------------- 
+group: Reading Specialist
+  vars   n    mean       sd median  trimmed      mad   min    max  range  skew kurtosis     se
+1    1 417 76524.1 17936.57  76035 76684.33 21008.44 10000 119937 109937 -0.24    -0.07 878.36
+--------------------------------------------------------------------------------------- 
+group: Recreation
+  vars n     mean       sd median  trimmed     mad  min   max range skew kurtosis      se
+1    1 8 18125.25 25399.45   9826 18125.25 3449.27 5000 80671 75671 1.82     1.62 8980.06
+--------------------------------------------------------------------------------------- 
+group: Remedial Math
+  vars   n     mean      sd  median  trimmed      mad   min    max  range skew kurtosis      se
+1    1 400 67355.12 20280.7 65391.5 67310.72 21015.11 17400 137400 120000 0.07    -0.14 1014.03
+--------------------------------------------------------------------------------------- 
+group: Resource Program In-Class 
+  vars    n     mean       sd median  trimmed      mad min    max  range skew kurtosis     se
+1    1 9183 67736.93 17328.87  63195 66519.16 16207.78  78 131900 131822 0.47    -0.23 180.83
+--------------------------------------------------------------------------------------- 
+group: Resource Program Pull-Out Support
+  vars    n     mean       sd median  trimmed      mad min    max  range skew kurtosis     se
+1    1 3177 67501.33 17324.08  63825 66856.87 16579.92  30 175395 175365 0.23     0.52 307.36
+--------------------------------------------------------------------------------------- 
+group: Russian
+  vars n     mean       sd median  trimmed      mad   min   max range skew kurtosis      se
+1    1 7 71852.29 20834.66  61412 71852.29 15785.24 50765 99408 48643 0.29    -1.91 7874.76
+--------------------------------------------------------------------------------------- 
+group: Russian Grades 5 - 8 
+  vars n  mean sd median trimmed mad   min   max range skew kurtosis se
+1    1 1 95508 NA  95508   95508   0 95508 95508     0   NA       NA NA
+--------------------------------------------------------------------------------------- 
+group: School Counselor
+  vars    n     mean       sd median  trimmed      mad  min    max  range skew kurtosis     se
+1    1 3656 75029.01 19102.85  73038 74500.77 22529.59 8000 132300 124300 0.12     -0.5 315.93
+--------------------------------------------------------------------------------------- 
+group: School Librarian Media Specialist Assoc.
+  vars    n     mean       sd median  trimmed      mad   min    max  range skew kurtosis     se
+1    1 1529 74093.09 18726.84  73003 73869.53 21905.41 10836 134588 123752 0.03    -0.44 478.92
+--------------------------------------------------------------------------------------- 
+group: School Nurse
+  vars    n     mean       sd median  trimmed      mad  min    max  range  skew kurtosis     se
+1    1 2266 72150.21 16670.66  72473 72214.58 19757.13 3000 142385 139385 -0.18     0.05 350.21
+--------------------------------------------------------------------------------------- 
+group: School Nurse/Non Instructional
+  vars   n     mean       sd median  trimmed      mad min    max  range  skew kurtosis      se
+1    1 482 67512.88 22943.83  65094 68050.55 20634.09  25 131322 131297 -0.14    -0.01 1045.06
+--------------------------------------------------------------------------------------- 
+group: School Psychologist
+  vars    n     mean       sd median  trimmed      mad min    max  range  skew kurtosis     se
+1    1 1847 74530.37 20343.22  71964 74626.53 20673.37   1 129084 129083 -0.18     0.23 473.35
+--------------------------------------------------------------------------------------- 
+group: School Social Worker
+  vars    n     mean       sd median  trimmed      mad min    max  range  skew kurtosis     se
+1    1 2241 75048.88 19476.66  73535 75214.96 22001.78  29 123500 123471 -0.22    -0.07 411.43
+--------------------------------------------------------------------------------------- 
+group: Science /Elementary                 
+  vars   n     mean       sd median  trimmed      mad   min    max range skew kurtosis      se
+1    1 225 70414.63 17045.01  67313 69449.68 20748.99 40038 108888 68850 0.37     -1.1 1136.33
+--------------------------------------------------------------------------------------- 
+group: Science Biological
+  vars    n     mean       sd median  trimmed     mad   min    max  range skew kurtosis     se
+1    1 1823 68513.22 17427.59  63869 66908.92 16035.8 10000 122688 112688 0.67    -0.07 408.17
+--------------------------------------------------------------------------------------- 
+group: Science Chemistry
+  vars   n  mean       sd median  trimmed      mad   min    max  range skew kurtosis     se
+1    1 866 71941 17413.56  68396 70673.04 19092.92 28780 137400 108620 0.57     -0.4 591.74
+--------------------------------------------------------------------------------------- 
+group: Science Earth
+  vars   n     mean       sd  median  trimmed      mad   min    max range skew kurtosis      se
+1    1 244 71839.93 17698.63 69976.5 70742.68 20817.93 26365 120017 93652 0.43    -0.56 1133.04
+--------------------------------------------------------------------------------------- 
+group: Science General
+  vars   n     mean       sd  median trimmed      mad  min    max  range skew kurtosis    se
+1    1 814 72465.07 17925.88 70336.5 71385.9 20963.96 8320 137294 128974  0.4    -0.19 628.3
+--------------------------------------------------------------------------------------- 
+group: Science Grades 5  -8
+  vars    n     mean      sd median  trimmed     mad  min    max  range skew kurtosis     se
+1    1 2053 67075.45 16226.7  62813 65602.17 14655.5 9000 128932 119932 0.68     0.07 358.13
+--------------------------------------------------------------------------------------- 
+group: Science Military
+  vars   n     mean       sd median  trimmed      mad   min    max range  skew kurtosis      se
+1    1 118 82930.45 15546.64  83256 83248.93 19144.81 52200 117285 65085 -0.13     -0.8 1431.18
+--------------------------------------------------------------------------------------- 
+group: Science Physical
+  vars   n     mean       sd  median  trimmed      mad  min    max  range skew kurtosis     se
+1    1 404 75528.45 16953.11 75177.5 75050.44 18823.09 2911 124020 121109 0.07    -0.01 843.45
+--------------------------------------------------------------------------------------- 
+group: Science Physics
+  vars   n     mean       sd median  trimmed      mad   min    max  range skew kurtosis     se
+1    1 458 75121.18 19421.88  73640 74142.25 24980.33 22390 134900 112510 0.34    -0.66 907.52
+--------------------------------------------------------------------------------------- 
+group: Small Animal Care
+  vars n  mean      sd median trimmed     mad   min   max range skew kurtosis      se
+1    1 5 65379 6818.73  66429   65379 9301.83 56859 73214 16355 -0.1    -2.04 3049.43
+--------------------------------------------------------------------------------------- 
+group: Small Engine Repair(Internal Combustion)
+  vars n    mean       sd  median trimmed      mad   min   max range skew kurtosis      se
+1    1 2 79416.5 24025.37 79416.5 79416.5 25187.15 62428 96405 33977    0    -2.75 16988.5
+--------------------------------------------------------------------------------------- 
+group: Social Studies Geography
+  vars  n    mean       sd median  trimmed     mad   min   max range  skew kurtosis      se
+1    1 15 65132.2 17444.75  62968 65615.38 9635.42 25750 98233 72483 -0.23    -0.07 4504.22
+--------------------------------------------------------------------------------------- 
+group: Social Studies Grades 5 -8
+  vars    n     mean       sd  median  trimmed      mad min    max  range skew kurtosis     se
+1    1 2006 66371.12 15953.34 61944.5 64916.92 13854.16 250 131049 130799  0.7     0.29 356.19
+--------------------------------------------------------------------------------------- 
+group: Social Studies History
+  vars    n     mean       sd median trimmed     mad  min    max  range skew kurtosis     se
+1    1 1091 68754.81 17258.07  65019 67494.6 17143.3 3720 124233 120513 0.54     0.03 522.49
+--------------------------------------------------------------------------------------- 
+group: Social Studies Humanities
+  vars  n     mean      sd median  trimmed      mad   min    max range skew kurtosis      se
+1    1 21 74898.14 14917.5  75949 74676.35 15605.85 50058 104879 54821 0.13    -0.98 3255.26
+--------------------------------------------------------------------------------------- 
+group: Social Studies Non-Elementary
+  vars    n     mean       sd  median  trimmed      mad  min    max  range skew kurtosis     se
+1    1 2934 68201.58 17282.56 64077.5 66746.38 16512.46 3150 128500 125350 0.58     0.09 319.06
+--------------------------------------------------------------------------------------- 
+group: Social Studies Psychology
+  vars   n     mean       sd median  trimmed     mad   min    max range skew kurtosis      se
+1    1 169 71831.77 16013.04  70210 70943.04 16922.4 43250 120068 76818 0.51    -0.31 1231.77
+--------------------------------------------------------------------------------------- 
+group: Social Studies/Elementary            
+  vars   n    mean       sd median  trimmed      mad   min    max range skew kurtosis      se
+1    1 188 67726.1 16482.57  64149 66533.49 18025.45 27000 112200 85200 0.49    -0.35 1202.12
+--------------------------------------------------------------------------------------- 
+group: Spanish
+  vars    n     mean       sd median  trimmed      mad min    max  range skew kurtosis     se
+1    1 2707 66580.72 17422.48  63275 65681.39 15900.88  36 128914 128878 0.34     0.35 334.86
+--------------------------------------------------------------------------------------- 
+group: Spanish Grades 5 - 8
+  vars   n     mean       sd median  trimmed      mad  min    max  range skew kurtosis     se
+1    1 421 64531.68 16872.82  61200 63673.72 13588.03 2160 116140 113980  0.2     1.06 822.33
+--------------------------------------------------------------------------------------- 
+group: Speech Arts/Drama
+  vars  n     mean       sd median  trimmed      mad   min    max range skew kurtosis      se
+1    1 97 74743.95 18960.21  75343 74087.58 25611.91 40616 113947 73331 0.17    -1.23 1925.12
+--------------------------------------------------------------------------------------- 
+group: Speech Correction/Language Specialist
+  vars    n     mean       sd median trimmed      mad min    max  range  skew kurtosis     se
+1    1 2558 72215.63 19826.61  72845 72792.6 21492.51   1 124600 124599 -0.33     0.08 392.01
+--------------------------------------------------------------------------------------- 
+group: Structured Learning Experience Coordinator
+  vars  n     mean       sd median  trimmed      mad  min    max  range  skew kurtosis      se
+1    1 30 78542.07 23756.55  81284 79756.29 26835.06 9170 116903 107733 -0.66     0.24 4337.33
+--------------------------------------------------------------------------------------- 
+group: Supermarket Careers
+  vars  n     mean       sd median  trimmed      mad   min   max range skew kurtosis   se
+1    1 11 71610.45 13435.66  76064 70939.22 14123.25 54857 94405 39548  0.1    -1.52 4051
+--------------------------------------------------------------------------------------- 
+group: Supplementary Instruction (In-Class) 
+  vars    n     mean       sd  median  trimmed   mad min    max  range skew kurtosis     se
+1    1 2368 65259.71 17886.43 61129.5 64740.49 15018   0 118100 118100  0.2     0.03 367.56
+--------------------------------------------------------------------------------------- 
+group: Supplementary Instruction (Pull-Out) 
+  vars   n     mean       sd median  trimmed      mad min    max  range  skew kurtosis      se
+1    1 919 55616.23 32541.91  58266 56328.75 32987.85  26 117722 117696 -0.34    -0.78 1073.46
+--------------------------------------------------------------------------------------- 
+group: Swimming/Water Safety
+  vars n     mean       sd median  trimmed      mad   min    max range skew kurtosis      se
+1    1 7 72372.43 22545.33  68360 72372.43 25190.86 48062 102970 54908 0.19    -1.96 8521.33
+--------------------------------------------------------------------------------------- 
+group: Tailoring/Dress Making
+  vars n    mean       sd  median trimmed      mad   min   max range skew kurtosis      se
+1    1 2 65065.5 16136.88 65065.5 65065.5 16917.21 53655 76476 22821    0    -2.75 11410.5
+--------------------------------------------------------------------------------------- 
+group: Teacher Coach
+  vars   n     mean       sd median  trimmed      mad  min    max  range  skew kurtosis      se
+1    1 419 67017.64 29121.31  70868 69687.49 22327.96 1012 123699 122687 -0.81     0.13 1422.67
+--------------------------------------------------------------------------------------- 
+group: Teacher Coordinator
+  vars   n     mean       sd median  trimmed      mad   min    max  range  skew kurtosis      se
+1    1 117 77335.79 23290.52  76271 78448.64 24596.33 17000 122163 105163 -0.29    -0.56 2153.21
+--------------------------------------------------------------------------------------- 
+group: Teacher Leader
+  vars   n     mean       sd median  trimmed      mad   min    max range skew kurtosis      se
+1    1 164 80009.73 19500.73  81010 79477.54 27978.14 51112 126087 74975 0.14    -1.31 1522.75
+--------------------------------------------------------------------------------------- 
+group: Teacher/ Behavior Specialist (SE Only)
+  vars   n     mean       sd median  trimmed      mad  min    max  range skew kurtosis      se
+1    1 177 65339.55 20557.01  60450 65031.94 13593.96 2000 111280 109280 0.05     0.43 1545.16
+--------------------------------------------------------------------------------------- 
+group: Technology Education
+  vars   n     mean       sd  median trimmed      mad   min    max  range skew kurtosis     se
+1    1 488 70583.01 18509.11 66002.5 69344.5 18095.87 10416 124495 114079 0.44    -0.31 837.87
+--------------------------------------------------------------------------------------- 
+group: Telecommunications
+  vars n     mean      sd median  trimmed   mad   min    max range skew kurtosis      se
+1    1 9 73868.89 19165.3  70550 73868.89 19683 52989 104015 51026 0.33    -1.74 6388.43
+--------------------------------------------------------------------------------------- 
+group: Television Production
+  vars  n     mean       sd median  trimmed      mad   min    max range skew kurtosis      se
+1    1 93 67000.12 15794.26  63208 65752.08 15073.59 26660 106562 79902 0.53    -0.45 1637.79
+--------------------------------------------------------------------------------------- 
+group: Theater
+  vars  n  mean       sd  median  trimmed     mad   min   max range  skew kurtosis      se
+1    1 38 59880 15504.79 58437.5 60184.28 9222.51 15175 92064 76889 -0.21     0.92 2515.21
+--------------------------------------------------------------------------------------- 
+group: Theater/Stage
+  vars  n     mean       sd median  trimmed      mad   min   max range skew kurtosis      se
+1    1 57 63889.42 14918.55  62083 63350.17 14035.77 19685 98627 78942 0.12     0.44 1976.01
+--------------------------------------------------------------------------------------- 
+group: Transportation and Travel Marketing
+  vars n     mean       sd median  trimmed     mad   min   max range skew kurtosis      se
+1    1 4 32203.75 12828.96  27960 32203.75 7042.35 22500 50395 27895 0.54    -1.86 6414.48
+--------------------------------------------------------------------------------------- 
+group: Typing/Word Processing
+  vars   n     mean       sd median  trimmed      mad   min    max range  skew kurtosis      se
+1    1 115 75053.01 19447.95  77230 74928.05 23862.45 28200 114316 86116 -0.03    -0.92 1813.53
+--------------------------------------------------------------------------------------- 
+group: Visual Arts
+  vars  n     mean       sd median  trimmed     mad   min   max range skew kurtosis      se
+1    1 13 63385.54 12583.29  61640 62496.55 8244.74 47262 89288 42026 0.55    -0.83 3489.98
+--------------------------------------------------------------------------------------- 
+group: Vocational Art/Inst Music
+  vars n     mean       sd median  trimmed      mad   min   max range  skew kurtosis       se
+1    1 3 74509.33 23830.89  83073 74509.33 14532.45 47580 92875 45295 -0.31    -2.33 13758.77
+--------------------------------------------------------------------------------------- 
+group: Vocational Art/Theater
+  vars  n     mean       sd median  trimmed      mad   min   max range skew kurtosis      se
+1    1 16 62362.19 13318.66  58325 60858.93 11796.31 47195 98575 51380  1.1     0.79 3329.67
+--------------------------------------------------------------------------------------- 
+group: Vocational Art/Vocal Music
+  vars n     mean       sd median  trimmed     mad   min   max range skew kurtosis       se
+1    1 3 71867.67 21738.32  62593 71867.67 9322.59 56305 96705 40400 0.35    -2.33 12550.63
+--------------------------------------------------------------------------------------- 
+group: Vocational Arts/Dance
+  vars  n     mean       sd median  trimmed     mad   min    max range skew kurtosis      se
+1    1 19 69964.84 15622.33  67104 69017.24 14698.5 52918 103121 50203 0.89    -0.56 3584.01
+--------------------------------------------------------------------------------------- 
+group: Vocational Arts/Electronic Music
+  vars n  mean       sd median trimmed     mad   min   max range skew kurtosis      se
+1    1 3 61519 11893.59  58131   61519 9553.87 51687 74739 23052 0.26    -2.33 6866.77
+--------------------------------------------------------------------------------------- 
+group: Warehousing
+  vars n  mean sd median trimmed mad   min   max range skew kurtosis se
+1    1 1 61430 NA  61430   61430   0 61430 61430     0   NA       NA NA
+--------------------------------------------------------------------------------------- 
+group: Welding
+  vars  n     mean       sd  median trimmed      mad   min    max range skew kurtosis      se
+1    1 18 74474.78 18101.38 70023.5 73209.5 16702.23 51208 117986 66778 0.76    -0.35 4266.54
+
